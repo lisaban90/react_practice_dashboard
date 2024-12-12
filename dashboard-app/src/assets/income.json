@@ -1,0 +1,112 @@
+{
+    "income": [
+        {
+            "amount" : "$100,000",
+            "date": "19th March, 2022"
+        },
+        {
+            "amount" : "$120,001",
+            "date": "14th May, 2022"
+        },
+        {
+            "amount" : "$150,000",
+            "date": "25th May, 2024"
+        }
+    ],
+
+    "crypincome": [
+        {
+            "amount" : "0.005863 BTC",
+            "date": "19th March, 2022"
+        },
+        {
+            "amount" : "0.230000 BTC",
+            "date": "14th May, 2022"
+        },
+        {
+            "amount" : "0.006854 BTC",
+            "date": "25th May, 2024"
+        }
+    ],
+
+    "totincome": [
+        {
+            "amount" : "$100,000",
+            "date": "19th March, 2022"
+        },
+        {
+            "amount" : "0.0005844 BTC",
+            "date": "14th May, 2022"
+        },
+        {
+            "amount" : "0.0054953 BTC",
+            "date": "25th May, 2024"
+        }
+    ],
+
+    "investments": [
+        {
+            "amount" : "$200,000",
+            "date": "29th March, 2022"
+        },
+        {
+            "amount" : "0.0005844 BTC",
+            "date": "14th May, 2022"
+        },
+        {
+            "amount" : "0.0054953 BTC",
+            "date": "15th May, 2024"
+        }
+    ],
+
+    "expenses": [
+        {
+            "amount" : "$50,000",
+            "date": "29th March, 2024"
+        },
+        {
+            "amount" : "$120,001",
+            "date": "4th May, 2022"
+        },
+        {
+            "amount" : "$320,001",
+            "date": "14th March, 2023"
+        }
+    ],
+
+    "SMS": [
+        {
+            "contact" : "Forex Inc",
+            "date": "19th March, 2024"
+        },
+        {
+            "contact" : "Bank of Ghana",
+            "date": "19th June, 2024"
+        },
+        {
+            "contact" : "Ecobank",
+            "date": "30th April, 2024"
+        },
+        {
+            "contact" : "Forex Game Inc.",
+            "date": "30th April, 2024"
+        },
+        {
+            "contact" : "Finance Securities",
+            "date": "30th May, 2024"
+        },
+        {
+            "contact" : "Financial Times",
+            "date": "20th May, 2024"
+        },
+        {
+            "contact" : "Finance Securities",
+            "date": "30th August, 2024"
+        }
+    ]
+
+
+}
+
+
+    
